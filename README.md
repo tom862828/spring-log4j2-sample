@@ -1,2 +1,3 @@
 # spring-log4j2-sample
-Springboot use log4j2 &amp; how to redirect if the page 404 not found
+1.Springboot 使用 log4j2設置範例<br>
+2.API查無路徑時進行404導頁程式範例
